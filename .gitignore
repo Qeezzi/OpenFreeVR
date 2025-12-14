@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+venv/
+.env
+.DS_Store
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild*/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Assets/AssetStoreTools*
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.booproj
+sysinfo.txt
+
+# OS
+Thumbs.db
